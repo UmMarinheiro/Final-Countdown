@@ -21,6 +21,8 @@ Para o projeto, utilizamos:
 
 Usamos o Arduino Uno para controlar 4 digitos feitos com a fita led. Cada digito foi feito usando 7 segmentos da fita led em série. O buzzer foi usado para fazer os avisos sonoros.
 
+O projeto foi inicialmente simulado na plataforma Tinkerkad para o desenvolvimento colaborativo. Com a chegada dos componentes e o avanço do código, passamos a testar no próprio equipamento.
+
 O projeto foi desenvolvido por:
 
 - https://github.com/DanielGrey1000
